@@ -1,0 +1,5 @@
+{
+  "name": "Julius Caesar Questions App",
+  "description": "An interactive app to generate study questions and take quizzes on Shakespeare's Julius Caesar, powered by AI. Explore questions by act, scene, or character, and test your knowledge with a multiple-choice quiz.",
+  "requestFramePermissions": []
+}
